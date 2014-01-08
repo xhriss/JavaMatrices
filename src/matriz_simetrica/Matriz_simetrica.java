@@ -1,4 +1,3 @@
-
 package matriz_simetrica;
 
 import java.util.*;
@@ -28,7 +27,7 @@ public class Matriz_simetrica {
                 }
          }
          else{
-            System.out.println("La matriz no es cuadrada.");
+            System.out.println("La matriz no es cuadrada");
         }
     
     }    
